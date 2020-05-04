@@ -8,7 +8,7 @@
 			"@helpers/*"   : ["helpers/*"],
 			"@hooks/*"     : ["hooks/*"],
 			"@layout/*"    : ["layout/*"],
-			"@pages/*"     : ["pages/*"],
+			"@pages/*"     : ["pages/*"]
 		}
 	},
 	"exclude": ["node_modules", "build"]
